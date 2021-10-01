@@ -1,4 +1,4 @@
-# Machine-learning-simple-regression
+# Machine-learning
 It will predict the value from one dependent variable to independent variable
 
 In this code , I have taken area and price for buying a house, as machine it will predict the prices based on the area of the house/land.
